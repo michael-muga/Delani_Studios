@@ -56,3 +56,18 @@
     flex-direction: column;
     align-items: center;
 }
+.portfolio h2{
+    text-align: center;
+    font-size: large;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+#firstrow{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3%;
+}
+#secondrow{
+    display: flex;
+    justify-content: space-between;
+}
