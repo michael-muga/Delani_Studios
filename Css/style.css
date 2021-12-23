@@ -28,3 +28,31 @@
     padding-top: 6em;
     font-size: large;
 }
+.services h2{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    font-size: large;
+    text-align: center;
+}
+.services #ourservices{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#design{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#developement{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 4em;
+}
+#product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
