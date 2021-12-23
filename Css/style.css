@@ -1,0 +1,16 @@
+#common{
+    text-align: center;
+}
+.section1{
+    background-image: url("/images/backgrounds/h_img.jpg");
+    background-size: cover;
+    color: white;
+    height: 600px;
+}
+.section1 #logo{
+    margin-top: 10%;
+    margin-bottom: 1%;
+}
+.section1 #mouse{
+    margin-top: 10%;
+}
