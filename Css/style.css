@@ -40,10 +40,23 @@
     margin-left: 20%;
     margin-right: 20%;
 }
+.clickable{
+    cursor: pointer;
+}
+.click2{
+    cursor: pointer;
+}
+.click3{
+    cursor: pointer;
+}
 #design{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+#design-description{
+    display: none;
+    text-align: center;
 }
 #developement{
     display: flex;
@@ -51,10 +64,18 @@
     align-items: center;
     margin-left: 4em;
 }
+#dev-description{
+    text-align: center;
+    display: none;
+}
 #product{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+#management-description{
+    text-align: center;
+    display: none;
 }
 .portfolio h2{
     text-align: center;
@@ -62,14 +83,21 @@
     margin-top: 4%;
     margin-bottom: 2%;
 }
+.portfolio img{
+    height: 200px;
+}
 #firstrow{
     display: flex;
     justify-content: space-between;
     margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 #secondrow{
     display: flex;
     justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .contact h2{
     text-align: center;
