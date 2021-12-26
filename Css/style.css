@@ -53,6 +53,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+
 }
 #design-description{
     display: none;
@@ -144,4 +145,27 @@ form #email{
 }
 footer {
     margin-top: 2%;
-    text-align: center;}
+    text-align: center;
+}
+.whitebox{
+    visibility: ;
+    height: 200px;
+    width: 240px;
+    background: rgba(233, 12, 12, 0.9);
+    opacity: 0.4;
+    text-align: center;
+    padding: 30px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    margin-top:-12.5em ;
+}
+.whitebox p{
+    margin-top: 3em;
+    color: white;
+}
