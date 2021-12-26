@@ -148,6 +148,7 @@ footer {
     text-align: center;
 }
 .whitebox{
+    cursor: pointer;
     height: 200px;
     width: 240px;
     background: rgba(219, 22, 22, 0.9);
