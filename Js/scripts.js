@@ -19,8 +19,64 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $('.project1').hover(function(){
-        $('.whitebox').show();
+        $('.project1 .whitebox').show();
     }, function(){
-        $('.whitebox').hide();
+        $('.project1 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project2').hover(function(){
+        $('.project2 .whitebox').show();
+    }, function(){
+        $('.project2 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project3').hover(function(){
+        $('.project3 .whitebox').show();
+    }, function(){
+        $('.project3 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project4').hover(function(){
+        $('.project4 .whitebox').show();
+    }, function(){
+        $('.project4 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project5').hover(function(){
+        $('.project5 .whitebox').show();
+    }, function(){
+        $('.project5 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project6').hover(function(){
+        $('.project6 .whitebox').show();
+    }, function(){
+        $('.project6 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project7').hover(function(){
+        $('.project7 .whitebox').show();
+    }, function(){
+        $('.project7 .whitebox').hide();
+    })
+})
+
+$(document).ready(function(){
+    $('.project8').hover(function(){
+        $('.project8 .whitebox').show();
+    }, function(){
+        $('.project8 .whitebox').hide();
     })
 })
