@@ -16,3 +16,11 @@ $(document).ready(function(){
         $('#product').toggle();
     })
 })
+
+$(document).ready(function(){
+    $('.project1').hover(function(){
+        $('.whitebox').show();
+    }, function(){
+        $('.whitebox').hide();
+    })
+})
