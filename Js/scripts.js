@@ -80,3 +80,16 @@ $(document).ready(function(){
         $('.project8 .whitebox').hide();
     })
 })
+
+$(document).ready(function(){
+    $('.contact form').submit(function(event){
+        var nameInput = $('input#name').val();
+        var emailInput = $('input#email').val();
+        var messageInput = $('input#message');
+
+        var alertMessage = "Hello" +" "+ nameInput + " we have recieved your message thank you for reaching out to us";
+        alert(alertMessage);
+
+        event.preventDefault();
+    })
+})
