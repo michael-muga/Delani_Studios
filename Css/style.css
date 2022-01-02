@@ -2,7 +2,7 @@
     text-align: center;
 }
 .section1{
-    background-image: url("/images/backgrounds/h_img.jpg");
+    background-image: url("images/backgrounds/h_img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -20,7 +20,7 @@
     margin-bottom: 3%;
 }
 .servicesdescr{
-    background-image: url("/images/backgrounds/s_image.jpg");
+    background-image: url("images/backgrounds/s_image.jpg");
     background-size: cover;
     color: white;
     height: 300px;
@@ -134,7 +134,7 @@ button{
     box-shadow: 2px 4px 4px black;
 }
 .contact{
-    background-image: url("/images/backgrounds/c_image.jpg");
+    background-image: url("images/backgrounds/c_image.jpg");
     background-size: cover;
     color: white;
 
@@ -204,12 +204,12 @@ footer {
 }
 @media screen and (max-width:1096px) {
     .section1{
-        background-image: url("/images/backgrounds/h_img.jpg");
+        background-image: url("images/backgrounds/h_img.jpg");
         background-size: contain;
         margin-bottom:0em ;
     }
     .servicesdescr{
-        background-image: url("/images/backgrounds/s_image.jpg");
+        background-image: url("images/backgrounds/s_image.jpg");
         background-size: contain;
         background-repeat: no-repeat;
 
