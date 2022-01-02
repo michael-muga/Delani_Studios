@@ -20,17 +20,17 @@ To install or access this website you need:
 
 ### Installation Process
 
-Click on the link provided bellow to view the site.
+* Click on the link provided bellow to view the site.
 https://michael-muga.github.io/Delani_Studios/
 
 ## Technology Used
-Html- used to structure this website
-Css- used to style the website
-js - to provide more functionalities and interactivity on the site
+* Html- used to structure this website
+* Css- used to style the website
+* js - to provide more functionalities and interactivity on the site
 
 ## License
 MIT license
-cpyright (c) [2021][Michael Muga]
+copyright (c) [2021][Michael Muga]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
